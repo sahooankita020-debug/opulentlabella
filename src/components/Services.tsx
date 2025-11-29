@@ -48,15 +48,14 @@ const serviceImages: Record<string, string[]> = {
     "/services/nails/nails5.jpg",
     "/services/nails/nails6.jpg",
     "/services/nails/nails7.jpg",
-    "/services/nails/nails8.jpg",
+    "/services/nails/nails8.jpg", 
     "/services/nails/nails9.jpg",
     "/services/nails/nails10.jpg",
     "/services/nails/nails11.jpg",
-    "/services/nails/nails12.jpg",
+    "/services/nails/nails12.jpg",  
     "/services/nails/nails13.jpg",
     "/services/nails/nails14.jpg",
     "/services/nails/nails15.jpg",
-    
   ],
   Makeup: [
     "/services/makeup/makeup1.jpg",
@@ -73,23 +72,19 @@ const serviceImages: Record<string, string[]> = {
     "/services/waxing/wax1.jpg",
     "/services/waxing/wax2.jpg",
     "/services/waxing/wax3.jpg",
-    "/services/waxing/wax4.jpg",
+    "/services/waxing/wax4.jpg",    
     "/services/waxing/wax5.jpg",
-    "/services/waxing/wax6.jpg",  
+    "/services/waxing/wax6.jpg",
     "/services/waxing/wax7.jpg",
     "/services/waxing/wax8.jpg",
     "/services/waxing/wax9.jpg",
     "/services/waxing/wax10.jpg",
-    
   ],
   Lashes: [
     "/services/lashes/lash1.jpg",
     "/services/lashes/lash2.jpg",
     "/services/lashes/lash3.jpg",
     "/services/lashes/lash4.jpg",
-    "/services/lashes/lash5.jpg",
-    "/services/lashes/lash6.jpg",
-  
   ],
 };
 
