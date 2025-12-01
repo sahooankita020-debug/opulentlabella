@@ -2,7 +2,7 @@ import { Sparkles } from 'lucide-react';
 
 export default function Hero() {
   const handleWhatsAppClick = () => {
-    const phone = '1234567890';
+    const phone = '27614522153';
     const message = 'Hi! I would like to book an appointment at Opulentlabella.';
     window.open(`https://wa.me/${phone}?text=${encodeURIComponent(message)}`, '_blank');
   };
