@@ -18,7 +18,13 @@ export default function Hero() {
       {/* Decorative Circles (slightly lowered to avoid top strip) */}
       <div className="absolute top-24 right-10 w-72 h-72 bg-brand-primary/25 rounded-full blur-3xl" />
       <div className="absolute bottom-10 left-1/4 w-96 h-96 bg-brand-secondary/20 rounded-full blur-3xl" />
-
+      <div className="absolute top-8 left-1/2 -translate-x-1/2 z-20">
+        <img
+          src="/favicon.png"
+          alt="Opulentlabella logo"
+          className="w-28 h-28 rounded-full object-cover shadow-xl border-4 border-white"
+        />
+      </div>
       <div className="relative z-10 max-w-4xl mx-auto px-6 sm:px-8 lg:px-12 text-center">
 
         <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/60 backdrop-blur border border-brand-light mb-8">
